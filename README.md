@@ -7,8 +7,10 @@ it is distributed under [Apache License 2.0](http://www.apache.org/licenses/LICE
 Here is the [demo article](http://books.zkoss.org/wiki/Small_Talks/2013/May/ZK_Graphics_Component)
 
 ###Download
-	* Demo war file - [barcharts-demo.zip](https://code.google.com/p/zkbarchart-demo/downloads/list)
+
+* Demo war file - [barcharts-demo.zip](https://code.google.com/p/zkbarchart-demo/downloads/list)
+
 ###License
 	
-	* Demo Code - [Apache License 2.0](http://www.apache.org/licenses/LICENSE-2.0)
-	* ZK Graphics Component - [Evaluation Version](https://github.com/jumperchen/ZKBarchart-Demo/blob/master/zkdoc/ZK_Graphics_Component_Evaluation_LICENSE)
+* Demo Code - [Apache License 2.0](http://www.apache.org/licenses/LICENSE-2.0)
+* ZK Graphics Component - [Evaluation Version](https://github.com/jumperchen/ZKBarchart-Demo/blob/master/zkdoc/ZK_Graphics_Component_Evaluation_LICENSE)
