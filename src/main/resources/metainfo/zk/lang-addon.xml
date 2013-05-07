@@ -1,0 +1,16 @@
+<language-addon>
+    <addon-name>charts</addon-name>
+	<depends>graphics-max</depends>
+  	<version>
+		<version-class>org.zkoss.charts.Version</version-class>
+		<version-uid>0.5.0-SNAPSHOT</version-uid>
+		<zk-version>6.5.2</zk-version><!-- or later -->
+	</version>
+    
+	<language-name>xul/html</language-name>
+	<component>
+		<component-name>charts</component-name>
+		<component-class>org.zkoss.charts.Charts</component-class>
+		<extends>div</extends>
+	</component>
+</language-addon>
