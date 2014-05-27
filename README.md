@@ -8,7 +8,7 @@ Here is the [demo article](http://books.zkoss.org/wiki/Small_Talks/2013/May/ZK_G
 
 ###Download
 
-* Demo war file - [barcharts-demo.zip](https://code.google.com/p/zkbarchart-demo/downloads/list)
+* Demo war file - [barcharts-demo.zip](https://github.com/jumperchen/ZKBarchart-Demo/releases)
 
 ###License
 	
